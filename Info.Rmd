@@ -1,7 +1,7 @@
 ---
 title: "Info"
 description: |
-  A new article created using the Distill format.
+
 
 output: distill::distill_article
 ---
@@ -11,3 +11,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+If you are new to our website and you like it but you just don't know much about it ,then you are more then welcome to ask us questions!We are here to help.
+
+![](images/top.jpg)

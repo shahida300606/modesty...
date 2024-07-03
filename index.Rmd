@@ -1,6 +1,6 @@
 ---
 title: "DZclothes"
-image: "sigridur.jpg"
+image: "images/kl.jpg"
 links:
   - label: Resume
     url: "https://linkedin.com/"
@@ -17,4 +17,7 @@ site: distill::distill_website
  
 ## intro
 our website is here to make people get to know  more about our Algerian cultural clothes.people might not know much about are culture that's why we are here to help you to learn and get to know more about our beautiful cultural clothes.we will be here to help if you have any doubts about how Algerian cultural clothes look like , we are sure you will love it.  
+
+![top.jpg](images/top.jpg)
+
 

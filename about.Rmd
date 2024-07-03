@@ -1,8 +1,11 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  
 ---
+
+our website is about algerian clothings and their beauty.its also hre for people to learn more about our culture.
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
